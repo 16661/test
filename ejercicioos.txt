@@ -1,0 +1,12 @@
+CSS-> ESTILO-Esqueleto
+JS-> Sistema nervioso
+ETIQUETAS <mark> resaltar
+<s> subrayar
+
+Ejercicio
+imagen animal favorito
+subtitulo
+texto
+imagen
+texto 1 en negrilla, cursiva, subrayado, resaltado, superindice.
+
